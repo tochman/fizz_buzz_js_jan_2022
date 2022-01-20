@@ -1,0 +1,13 @@
+{
+  "name": "fizz_buzz_js_jan_2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas <thomas@craftacademy.se>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest --passWithNoTests --rootDir=spec"
+  }
+}
